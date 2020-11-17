@@ -27,6 +27,10 @@ def main():
     # custlist.update('nsx')
     vendordict.update({'cisco': False})
     # vendordict.sort()
+    print()
+    print(custlist)
+    print()
+    print(vendordict)
 
 if __name__ == "__main__":
     main()   
